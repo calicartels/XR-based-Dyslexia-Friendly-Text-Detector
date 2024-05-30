@@ -73,12 +73,16 @@ In the project, we utilized various Unity packages. Ensure you have the necessar
    - `Res Panel`: The UI Panel containing the text elements.
 8. Save your scene.
 
+### Sample images
+
+![Sample](img/example.png)
+
 ### Running the Project
 
 1. Play the scene in the Unity Editor.
 2. The application will start capturing images from the webcam.
 3. Detected text will be displayed on the UI with the dyslexia-readable font and animation.
-   ![Running Scene](img/running_scene.png)
+   
 
 ## License
 
