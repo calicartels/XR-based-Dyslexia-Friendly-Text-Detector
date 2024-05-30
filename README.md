@@ -62,18 +62,15 @@ In the project, we utilized various Unity packages. Ensure you have the necessar
 1. Clone this repository or download the project files.
 2. Open the project in Unity.
 3. Import a dyslexia-friendly font (e.g., OpenDyslexic) into your Unity project.
-   ![Importing Font](img/import_font.png)
 4. Add the font to a `Fonts` folder within the `Assets` directory.
 5. In the Unity Editor, select the `Main Camera` GameObject.
 6. In the Inspector, find the `WebCamTextureToCloudVision` component.
 7. Set the following fields in the component:
    - `Api Key`: Your Google Cloud Vision API key.
    - `Dyslexia Font`: The imported dyslexia-friendly font.
-     ![Assigning Font in Inspector](img/assign_font.png)
    - `Response Text`: The UI Text element for displaying the detected text.
    - `Response Array`: The UI Text element for displaying the text split into lines.
    - `Res Panel`: The UI Panel containing the text elements.
-     ![UI Setup](img/ui_setup.png)
 8. Save your scene.
 
 ### Running the Project
