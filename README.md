@@ -38,11 +38,11 @@ An extended scope for this project includes:
 
 You will need:
 
-* Unity version `2020.1` or higher
+* Unity version `2020.1f`
 * A Google Cloud project with the Vision API enabled
 * An API key for the Google Cloud Vision API
 * A dyslexia-friendly font (e.g., OpenDyslexic)
-* An Android or iOS device capable of running the app
+* An iOS device capable of running the app
 
 ### Packages
 
