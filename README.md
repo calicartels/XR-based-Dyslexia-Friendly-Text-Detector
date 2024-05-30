@@ -2,7 +2,7 @@
 An XR based dyslexia reader that converts the text into an OpenDyslexic font through text detection using google vision API
 
 
-# Dyslexia-Friendly Text Detection with Animation
+## Dyslexia-Friendly Text Detection with Animation
 
 The purpose of this project is to provide a way for dyslexic users to more easily interact with the world around them. This project leverages Unity and the Google Cloud Vision API to detect text from the environment and present it in a dyslexia-friendly font with an animated effect. 
 
